@@ -88,6 +88,9 @@ Variant=[No Variations]
 GenerateBOM=0
 OutputJobsCount=0
 
+[Generic_EDE]
+OutputDir=Output\$(CONFNAME)
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
